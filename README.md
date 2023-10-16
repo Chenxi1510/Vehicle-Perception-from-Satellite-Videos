@@ -15,11 +15,11 @@ The repository presents the TMS dataset, with data collection and preprocessing,
 ## Data Collection and Preprocessing
 
 
-The code for TMS will be available as soon as possible.
+The details for TMS will be available as soon as possible.
 ## Data Annotation
-  The code for TMS will be available as soon as possible.
+ The details for TMS will be available as soon as possible.
 ## Data Statistics
-The code for TMS will be available as soon as possible.
+The details for TMS will be available as soon as possible.
 
 ## Sample of the TMS
   
