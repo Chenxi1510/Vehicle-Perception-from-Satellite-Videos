@@ -8,9 +8,8 @@ The repository presents the TMS dataset, with data collection and preprocessing,
 
 
 ## Data Download  
-  ISPR Vaihingen Data: https://www2.isprs.org/  
-  AID Dataset: https://paperswithcode.com/dataset/aid  
-  NWPU-RSC Dataset: https://pan.baidu.com/s/1XismIJG5iO9aB9hv0VpofQ 
+ 
+  TMS Dataset: 链接：https://pan.baidu.com/s/1O128ZSNu03TxXY7PUgCfsA 
 提取码：1510 
 
 ## Data Collection and Preprocessing
