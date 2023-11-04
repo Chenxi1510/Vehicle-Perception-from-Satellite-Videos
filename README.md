@@ -24,10 +24,15 @@ The details for TMS will be available as soon as possible.
 The details for TMS will be available as soon as possible.
 
 ## Sample of the TMS
+
+## Sample of the Real dataset
   
-![image](https://github.com/Chenxi1510/Remote-sensing-Image-Compression/blob/main/Image/data.JPG)
+![image](https://github.com/Chenxi1510/Remote-sensing-Image-Compression/blob/main/Image/Real.png)
 
 
+## Sample of the Synthetic dataset
+
+![image](https://github.com/Chenxi1510/Remote-sensing-Image-Compression/blob/main/Image/Synthetic.png)
 
 
 
