@@ -23,7 +23,7 @@ The details for TMS will be available as soon as possible.
  
 ## Data Statistics
 
-| Datasets                        | Videos | Resolution                      | Images | Vehicles |     |         |    Tasks   |              |              | Availability |
+| Datasets    | Videos | Resolution   | Images | Vehicles |     |         |    Tasks   |              |              | Availability |
 |---------------------------------|----------|-----------------------------------|----------|:----------:|-----|---------|:----------:|--------------|--------------|--------------|
 | SHDV  | 1        | 400*400                           | 700      | --         | --  | --      |& #10004 | \XSolidBrush | \XSolidBrush | No           |
 | Valencia    | 3        | 500*500                           | 168      | 7          | 41  | 3,211   | \Checkmark | \XSolidBrush | \XSolidBrush | Yes          |
