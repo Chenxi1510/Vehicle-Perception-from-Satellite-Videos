@@ -25,11 +25,11 @@ The details for TMS will be available as soon as possible.
 
 | Datasets                        | \#Videos | \#Resolution                      | \#Images | \#Vehicles |     |         |    Tasks   |              |              | Availability |
 |---------------------------------|----------|-----------------------------------|----------|:----------:|-----|---------|:----------:|--------------|--------------|--------------|
-| SHDV \cite{zhang2018satellite}  | 1        | 400*400                           | 700      | --         | --  | --      | \Checkmark | \XSolidBrush | \XSolidBrush | No           |
-| Valencia \cite{ao2019needles}   | 3        | 500*500                           | 168      | 7          | 41  | 3,211   | \Checkmark | \XSolidBrush | \XSolidBrush | Yes          |
-| Las Vagas \cite{zhang2020error} | 2        | 400*400, 600*400                  | 1,400    | 27         | 86  | 80,047  | \Checkmark | \XSolidBrush | \XSolidBrush | Yes          |
-| Jilin-1 \cite{zhang2021moving}  | 3        | (400$ \sim $700)*(400$ \sim $600) | 900      | --         | --  | --      | \Checkmark | \XSolidBrush | \XSolidBrush | No           |
-| SkySat \cite{zhang2021moving}   | 6        | (400$ \sim $600)*(400$ \sim $600) | 3,500    | --         | --  | --      | \Checkmark | \XSolidBrush | \Checkmark   | Partially    |
+| SHDV  | 1        | 400*400                           | 700      | --         | --  | --      | \Checkmark | \XSolidBrush | \XSolidBrush | No           |
+| Valencia    | 3        | 500*500                           | 168      | 7          | 41  | 3,211   | \Checkmark | \XSolidBrush | \XSolidBrush | Yes          |
+| Las Vagas  | 2        | 400*400, 600*400                  | 1,400    | 27         | 86  | 80,047  | \Checkmark | \XSolidBrush | \XSolidBrush | Yes          |
+| Jilin-1   | 3        | (400$ \sim $700)*(400$ \sim $600) | 900      | --         | --  | --      | \Checkmark | \XSolidBrush | \XSolidBrush | No           |
+| SkySat    | 6        | (400$ \sim $600)*(400$ \sim $600) | 3,500    | --         | --  | --      | \Checkmark | \XSolidBrush | \Checkmark   | Partially    |
 | TMS                             | 408      | 512*512, 540*480                  | 9,296    | 0          | 101 | 128,801 | \Checkmark | \Checkmark   | \Checkmark   | Yes          |
 
 ## Sample of the TMS
