@@ -42,14 +42,14 @@ The details for TMS will be available as soon as possible.
 ### Citation
 
 If you find our project is useful for your research, please cite:
-
+```
  @inproceedings{wang2023exploiting,
         author = {Wang, Jianyi and Yue, Zongsheng and Zhou, Shangchen and Chan, Kelvin CK and Loy, Chen Change},
         title = {Exploiting Diffusion Prior for Real-World Image Super-Resolution},
         booktitle = {arXiv preprint arXiv:2305.07015},
         year = {2023}
     }
-
+```
 
 
 
