@@ -8,9 +8,6 @@
 
 ## Vehicle Perception from Satellite
 
-[Paper](https://arxiv.org/abs/2305.07015) 
-
-Vehicle-Perception-from-Satellite
 
 
 The repository presents the TMS dataset, with data collection and preprocessing, data annotation, and data statistics for the TMS dataset.
