@@ -3,9 +3,7 @@
   <img src="https://github.com/Chenxi1510/Remote-sensing-Image-Compression/blob/main/Image/TPAMI.png" height=100>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Chenxi1510/Remote-sensing-Image-Compression/blob/main/Image/11TPAMI.png" height=100>
-</p>
+
 
 
 # Vehicle Perception from Satellite
