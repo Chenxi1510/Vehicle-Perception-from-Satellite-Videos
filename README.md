@@ -8,8 +8,8 @@
 
 ## Vehicle Perception from Satellite
 
-
-
+### Update  
+- **2023.10.08**: Our test sets associated with the results in our [paper](https://arxiv.org/abs/2305.07015) are now avaliable at [[HuggingFace]
 The repository presents the TMS dataset, with data collection and preprocessing, data annotation, and data statistics for the TMS dataset.
 
 
