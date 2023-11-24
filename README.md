@@ -65,7 +65,5 @@ If you have any questions, please feel free to reach me out at **chenxihan@mail.
 
 
 ---
-
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YUCGzX_laajMEdAR9D9m39ELC5woh9n4GFe1_fZnRbU&cl=ffffff&w=a"></script>
+<a href='https://clustrmaps.com/site/1bxi3'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=M73LRR9yV1e9jPW6i9Wu4I78dJwcyGM2j8o7o6wMotQ'/></a>
 
