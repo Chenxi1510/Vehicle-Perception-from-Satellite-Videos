@@ -65,5 +65,18 @@ If you have any questions, please feel free to reach me out at **chenxihan@mail.
 
 
 ---
-<a href='https://clustrmaps.com/site/1bxi3'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=M73LRR9yV1e9jPW6i9Wu4I78dJwcyGM2j8o7o6wMotQ'/></a>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ClustrMaps Example</title>
+</head>
+<body>
+
+<!-- ClustrMaps HTML code -->
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=M73LRR9yV1e9jPW6i9Wu4I78dJwcyGM2j8o7o6wMotQ&cl=ffffff&w=a"></script>
+
+</body>
+</html>
+
 
