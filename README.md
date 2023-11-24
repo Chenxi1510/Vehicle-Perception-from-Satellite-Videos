@@ -66,9 +66,7 @@ If you have any questions, please feel free to reach me out at **chenxihan@mail.
 
 ---
 <script 
-  src="//clustrmaps.com/map_v2.js?d=M73LRR9yV1e9jPW6i9Wu4I78dJwcyGM2j8o7o6wMotQ&cl=ffffff&w=a">
-  
-  </script>
+  src="//clustrmaps.com/map_v2.js?d=M73LRR9yV1e9jPW6i9Wu4I78dJwcyGM2j8o7o6wMotQ&cl=ffffff&w=a"></script>
 
 
 
