@@ -57,7 +57,7 @@ If you find our project is useful for your research, please cite:
     }
 ```
 ---
-[ClustrMaps](https://clustrmaps.com/map_v2.js?d=M73LRR9yV1e9jPW6i9Wu4I78dJwcyGM2j8o7o6wMotQ&cl=ffffff&w=a)
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=M73LRR9yV1e9jPW6i9Wu4I78dJwcyGM2j8o7o6wMotQ&cl=ffffff&w=a"></script>
 
 
 
