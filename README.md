@@ -25,10 +25,6 @@ The real part of TMS is composed of 12 full satellite videos. They are captured 
 Five of the videos are freely provided by the official website of [Jilin-1](https://mall.charmingglobe.com/Sampledata), and the others are crawled from [YouTube](https://www.youtube.com/). The synthetic part of TMS contains 14 videos obtained from the game of  [GTA-V](https://www.rockstargames.com/gta-v) 
 
 
-
-%### Data Annotation
-The details for TMS will be available as soon as possible.
-
  
 ### Data Statistics
 
