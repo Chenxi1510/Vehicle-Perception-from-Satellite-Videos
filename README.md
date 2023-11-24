@@ -67,10 +67,6 @@ If you have any questions, please feel free to reach me out at **chenxihan@mail.
 ---
 
 <!DOCTYPE html>
-<html>
-<head>
-    <title>ClustrMaps Example</title>
-</head>
 <body>
 
 <!-- ClustrMaps HTML code -->
