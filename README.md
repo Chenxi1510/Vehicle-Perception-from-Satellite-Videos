@@ -16,7 +16,7 @@ The repository presents the TMS dataset, with data collection and preprocessing,
 
 ### Data Download  
  
-TMS Dataset Link: [Baidu Netdisk](https://pan.baidu.com/s/1zV4q6brBDb8a1ypgy2uLNw) , [Google Netdisk](https://drive.google.com/file/d/1ZGy50yyed2h51_N4Uqc0glxvP2jFdOzM/view?usp=sharing)) 
+TMS Dataset Link: [Baidu Netdisk](https://pan.baidu.com/s/1zV4q6brBDb8a1ypgy2uLNw) , [Google Netdisk](https://drive.google.com/file/d/1ZGy50yyed2h51_N4Uqc0glxvP2jFdOzM/view?usp=sharing) 
 
 Verification Code: 1510.
 
