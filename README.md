@@ -48,16 +48,15 @@ Five of the videos are freely provided by the official website of [Jilin-1](http
 
 If you find our project is useful for your research, please cite:
 ```
- @inproceedings{zhao2023Vehicle,
-        author = {Zhao, Bin and Han, Pengfei and Li, Xuelong},
-        journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-        title = {Vehicle Perception from Satellite},
-        year={2023},
-        volume={},
-        number={},
-        pages={1-10},
-        doi={10.1109/TPAMI.2023.3335953}}
-    }
+ @ARTICLE{10330623,
+  author={Zhao, Bin and Han, Pengfei and Li, Xuelong},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Vehicle Perception From Satellite}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-10},
+  doi={10.1109/TPAMI.2023.3335953}}
 ```
 
 ### Contact
